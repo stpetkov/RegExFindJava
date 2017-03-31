@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 public class Names {
 
 	public static void main(String[] args) {
-		String text="#Petko.Geiov sdaswdsa #d.g dsadwsad #Petko.Geiov .Da vi go #Dwnio.Penchev turq";
+		String text="#Toni.Naikovv sdaswdsa #d.g dsadwsad #Petko.Zmeiov .Just a try #Dwnio.Penchev now";
 		
 		
 		   // Create a Pattern object
